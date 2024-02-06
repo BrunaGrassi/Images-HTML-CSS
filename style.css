@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    font-size: 22px;
+    width: 800px;
+    margin: auto;
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: right bottom;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin: 5px;
+    background-color: #c33b3b;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+    color: #fff;
+    border: 5px outset darkred ;
+
+}
+
+p {
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.logo-serfrontend-width {
+    width: 400px;
+}
+
+.image-align-left {
+    float: left;
+}
+
+.image-align-right {
+    float: right;
+}
+
